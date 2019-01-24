@@ -1,19 +1,20 @@
-# Let's Get Started
+# First GitPitch bla
 
 ---
 
-## Add Some Slide Candy
+## Meow
 
 ![](assets/img/presentation.png)
 
 ---
-@title[Customize Slide Layout]
+@title[Do custom and stuff]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+## That goes to the west
 @snapend
 
 @snap[east span-50]
+# and that goes to the right
 ![](assets/img/presentation.png)
 @snapend
 
